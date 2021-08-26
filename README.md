@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Serverless: Success! Your site should be available at http://react-store-8614.s3-website-us-east-1.amazonaws.com/
+
+Serverless: Web App Domain: d258fho3h9oc7v.cloudfront.net
+
+https://d258fho3h9oc7v.cloudfront.net
+
 ## Available Scripts
 
 In the project directory, you can run:  
