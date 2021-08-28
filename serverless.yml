@@ -1,10 +1,11 @@
-service: react-store-8990
+service: react-store
 
 frameworkVersion: '2'
 
 provider:
   name: aws
   runtime: nodejs12.x
+  region: eu-west-1
   # setup profile for AWS CLI.
   # profile: node-aws
 
@@ -17,7 +18,7 @@ plugins:
 
 custom:
   client:
-    bucketName: react-store-8614
+    bucketName: react-store-bucket
     distributionFolder: build
 
   ## Serverless-single-page-app-plugin configuration:
